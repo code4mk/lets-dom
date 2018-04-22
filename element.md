@@ -1,8 +1,5 @@
----
-description: Elements
-keywords: dom, element, js
-title: Elements
-toc_max:  4
+
+## Element
 ---
 
 ### attributes
@@ -83,3 +80,8 @@ var mestyle = `
 `
 doc.style.cssText = mestyle;
 ```
+
+---
+
+* [<<Prev](https://github.com/code4mk/lets-dom/blob/master/README.md)
+* [Next>>](https://github.com/code4mk/lets-dom/blob/master/node.md)

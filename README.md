@@ -1,8 +1,5 @@
----
-description: Basic DOM
-keywords: dom, js
-title: Basic DOM
-toc_max: 4
+
+## Basic Dom
 ---
 
 ## DOM
@@ -121,3 +118,7 @@ when `get` `class , id or selector` that time `document is  element`.
 * `window.location`
 
 ~ [window mdn](https://developer.mozilla.org/en-US/docs/Web/API/Window)
+
+---
+
+* [Next>>](https://code4mk.org/javascript-developer/js/dom/)

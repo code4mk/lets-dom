@@ -1,8 +1,4 @@
----
-description: style
-keywords: dom, js
-title: style
-toc_max: 4
+## style
 ---
 
 ## .style
@@ -24,3 +20,8 @@ profile.style.height = '200px';
 
 * [mdn](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/style)
 * [js info](https://javascript.info/styles-and-classes)
+
+---
+
+* [<<Prev](https://github.com/code4mk/lets-dom/blob/master/node.md)
+* [Next>>](https://github.com/code4mk/lets-dom/blob/master/event.md)

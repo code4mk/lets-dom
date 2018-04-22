@@ -1,8 +1,4 @@
----
-description: node
-keywords: dom, js
-title: node
-toc_max: 4
+## Nodes
 ---
 
 ### childNodes
@@ -146,3 +142,8 @@ console.log(document);
 
 
 #### replace child
+
+---
+
+* [<<Prev](https://github.com/code4mk/lets-dom/blob/master/element.md)
+* [Next>>](https://github.com/code4mk/lets-dom/blob/master/style.md)
