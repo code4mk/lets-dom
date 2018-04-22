@@ -121,4 +121,4 @@ when `get` `class , id or selector` that time `document is  element`.
 
 ---
 
-* [Next>>](https://code4mk.org/javascript-developer/js/dom/)
+* [Next>>](https://github.com/code4mk/lets-dom/blob/master/element.md)
