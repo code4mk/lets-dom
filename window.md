@@ -1,11 +1,7 @@
----
-description: window
-keywords: dom, js
-title: window
-toc_max: 4
+window
 ---
 
-## window open 
+## window open
 
 * `var window = window.open(url, windowName, [windowFeatures]);`
 
@@ -22,3 +18,8 @@ window.open('url',"_self");
 ### resource
 
 * [window](https://developer.mozilla.org/en-US/docs/Web/API/Window)
+
+---
+
+* [<<Prev](https://github.com/code4mk/lets-dom/blob/master/htmlelement.md)
+* [Next>>](https://github.com/code4mk/lets-dom/blob/master/resource.md)

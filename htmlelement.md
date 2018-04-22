@@ -1,8 +1,4 @@
----
-description: html elements
-keywords: dom, js
-title: html elements
-toc_max: 4
+html elements
 ---
 
 ## image
@@ -19,3 +15,8 @@ doc.appendChild(img1);
 ```
 
 ~ [image mdn](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/Image)
+
+---
+
+* [<<Prev](https://github.com/code4mk/lets-dom/blob/master/event.md)
+* [Next>>](https://github.com/code4mk/lets-dom/blob/master/window.md)

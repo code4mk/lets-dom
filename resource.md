@@ -1,9 +1,4 @@
----
-description: resources
-keywords: dom, js
-title: resources
-toc_max: 4
----
+
 
 ## resource
 
@@ -13,3 +8,7 @@ toc_max: 4
 * [whatwg dom](https://dom.spec.whatwg.org/)
 * [js info](https://javascript.info/ui)
 * [domenlightenment](http://domenlightenment.com/)
+
+---
+
+* [<<prevoius](https://github.com/code4mk/lets-dom/blob/master/window.md)
