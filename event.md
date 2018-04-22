@@ -1,8 +1,4 @@
----
-description: Event
-keywords: dom, js
-title: event
-toc_max: 4
+event
 ---
 
 ## addEventListener
@@ -22,3 +18,8 @@ doc.addEventListener('click', (e) => {
 * [mdn event](https://developer.mozilla.org/en-US/docs/Web/Events)
 * [event mdn API](https://developer.mozilla.org/en-US/docs/Web/API/Event)
 * [event target](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget)
+
+---
+
+* [<<Prev](https://github.com/code4mk/lets-dom/blob/master/style.md)
+* [Next>>](https://github.com/code4mk/lets-dom/blob/master/htmlelement.md)
